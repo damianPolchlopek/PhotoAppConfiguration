@@ -10,4 +10,4 @@ login:
     path: /users/login
 
 app:
-  message: "Wiadomość v2"
+  message: "Wiadomość v3"
