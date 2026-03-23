@@ -8,3 +8,6 @@ token:
 login:
   url:
     path: /users/login
+
+app:
+  message: "Wiadomość v1"
