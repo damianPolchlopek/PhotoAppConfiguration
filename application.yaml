@@ -3,7 +3,7 @@ gateway:
 
 token:
   expiration_time: 86400000
-  secret: "{cipher}4516b175abe95700eeffb0d6abf1bab1c087724007bf46dc496c2ec8392eaf3e0c1eeefcf042c4441b7ed45801813d301b3262aa31a3016f48321e0474a232cd"
+  secret: aI9w59fjipR3V/IeBSe32UlWf2o2qIFpB+gh7FBe+9g=
 
 login:
   url:
