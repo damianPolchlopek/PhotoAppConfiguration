@@ -2,4 +2,4 @@ app:
   message: "Wiadomość User 4"
   
 password:
-    example: {cipher}fecfde5eeb09f01b82e47a00d6cedccf382df3cab7f277cdadc231522ec1ab741efe0185458ff4b5cbebe4d7836ea8c4
+  example: {cipher}fecfde5eeb09f01b82e47a00d6cedccf382df3cab7f277cdadc231522ec1ab741efe0185458ff4b5cbebe4d7836ea8c4
