@@ -12,7 +12,12 @@ login:
 app:
   message: "Wiadomość v3"
 
+
+myEureka:
+  name: "{cipher}4936d36298c01f30976947255c7427677a63513ca2fd5158c2e71ae03fd5743a"
+  password: "{cipher}4936d36298c01f30976947255c7427677a63513ca2fd5158c2e71ae03fd5743a"
+
 eureka:
   client:
     service-url:
-      defaultZone: http://test:test@localhost:8761/eureka
+      defaultZone: http://${myEureka.name}:${myEureka.password}@localhost:8761/eureka

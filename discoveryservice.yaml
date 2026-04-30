@@ -1,5 +1,5 @@
 spring:
   security:
     user:
-      name: test
-      password: test
+      name: "{cipher}4936d36298c01f30976947255c7427677a63513ca2fd5158c2e71ae03fd5743a"
+      password: "{cipher}4936d36298c01f30976947255c7427677a63513ca2fd5158c2e71ae03fd5743a"
