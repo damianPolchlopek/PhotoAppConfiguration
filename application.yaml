@@ -11,3 +11,8 @@ login:
 
 app:
   message: "Wiadomość v3"
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://test:test@localhost:8761/eureka
